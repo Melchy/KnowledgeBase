@@ -1,3 +1,5 @@
+## General
+
 [Naming](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)
 
 [Test doubles](https://martinfowler.com/bliki/TestDouble.html)
@@ -30,7 +32,7 @@ A test fails to compile or run when the SUT is changed in ways that do not affec
 ## Bad unit tests are worse than no unit tests
 [Unit Testing](https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833)
 
-##TDD
+## TDD
 [TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 
 Before using TDD you must learn not to write fragile tests.
