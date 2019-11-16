@@ -10,7 +10,9 @@ Great resource about advanced unit testing.
 
 ## Having tests means that you have good architecture (misconception)
 Low number of tests can be caused by bad architecture.
+
 Hight number of tests means that your architecture is testable but it does't have to be good. 
+
 For example lasagna architecture is often testable and bad.
 
 [TDD is dead](https://martinfowler.com/articles/is-tdd-dead/)
