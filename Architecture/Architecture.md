@@ -1,10 +1,12 @@
 # Software architecture knowlage base
 
-## General overview
+## General
 
 [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) - Some chapters are obsolete but it contains information about 3 basic domain patterns -> transactions script, active record and domain model. This book also contains basic patterns every proggramer should know. For example layered architecture, ORM, DTO.  
 
 [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/) - Short overview of many architectures.
+
+[Good architecture pays of in matter of weeks](https://youtu.be/p5Qj75nJPEs?t=2742)
 
 ## Layered architecture
 [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) - chapter layered architecture
