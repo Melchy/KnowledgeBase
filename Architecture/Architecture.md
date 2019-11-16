@@ -77,6 +77,8 @@ General description in [Patterns, Principles, and Practices of Domain-Driven Des
 
 [Merging events](https://enterprisecraftsmanship.com/posts/merging-domain-events-dispatching/)
 
+[ASP .Net Core validation](https://enterprisecraftsmanship.com/posts/combining-asp-net-core-attributes-with-value-objects/)
+
 ## Anemic domain model
 
 [Famous article](https://martinfowler.com/bliki/AnemicDomainModel.html)
