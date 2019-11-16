@@ -2,9 +2,19 @@
 
 ## General overview
 
-[Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+[Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) - Some chapters are obsolete but it contains information about 3 basic domain patterns -> transactions script, active record and domain model. This book also contains basic patterns every proggramer should know. For example layered architecture, ORM, DTO.  
 
-[The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
+[The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/) - Short overview of many architectures.
+
+## Layered architecture
+[Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) - chapter layered architecture
+
+[Software Architecture Patterns by Mark Richards](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/]) - first chapter
+
+### Skipping layers in Layered architecture. (Also called Open/Closed or relaxed system)
+Patterns of Enterprise Application Architecture - page 20
+Domain-Driven Design: Tackling Complexity in the Heart of Software - Figure 4.1 in chapter Isolating the Domain 
+Software Architecture Patterns by Mark Richards - first chapter
 
 
 ## Hexagonal architecture
@@ -13,22 +23,12 @@
 
 [Cockburn talk heaxagonal](https://www.youtube.com/watch?v=th4AgBcrEHA&list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL)
 
-## Layered architecture
-[Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) - chapter layered architecture
-
-[Software Architecture Patterns by Mark Richards](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/]) - first chapter
-
-### Open/Closed layers (skipping layers)
-Software Architecture Patterns by Mark Richards
-
-Also mentioned in Patterns of Enterprise Application Architecture and Domain-Driven Design: Tackling Complexity in the Heart of Software  for Domain model architecure
-
-
 ## DDD
 
-[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) 
+[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) - very hard book. Contains some usefull information but over all isn't probably worth reading.   
 
-[Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
+[Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - personaly i think this book is much better than original [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+
 
 [Delete operation in DDD](http://udidahan.com/2009/09/01/dont-delete-just-dont/)
 
