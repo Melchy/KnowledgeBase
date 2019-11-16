@@ -13,7 +13,9 @@
 
 ### Skipping layers in Layered architecture. (Also called Open/Closed or relaxed system)
 Patterns of Enterprise Application Architecture - page 20
+
 Domain-Driven Design: Tackling Complexity in the Heart of Software - Figure 4.1 in chapter Isolating the Domain 
+
 Software Architecture Patterns by Mark Richards - first chapter
 
 
