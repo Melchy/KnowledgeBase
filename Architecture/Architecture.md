@@ -125,6 +125,6 @@ http://codebetter.com/gregyoung/2012/02/29/the-context-game-2/
 
 ## General
 
-(Hiding persistance nonsence)https://ayende.com/blog/4567/the-false-myth-of-encapsulating-data-access-in-the-dal
+(Hiding persistance nonsence)[https://ayende.com/blog/4567/the-false-myth-of-encapsulating-data-access-in-the-dal]
 
 
