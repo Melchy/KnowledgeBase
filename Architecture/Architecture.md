@@ -1,27 +1,26 @@
 # Software architecture knowlage base
 
-## General
+## Overview
 
-[Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) - Some chapters are obsolete but it contains information about 3 basic domain patterns -> transactions script, active record and domain model. This book also contains basic patterns every proggramer should know. For example layered architecture, ORM, DTO.  
+[Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) - contains basic patterns every proggramer should know. For example layered architecture, ORM, DTO. This book also describes 3 basic domain patterns -> transactions script,active record and domain model.
 
 Basic domain model patterns (with anemic model) are also described in [Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - chapter Domain Model Implementation Patterns
 
 [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/) - Short overview of many architectures.
 
-[Good architecture pays of in matter of weeks](https://youtu.be/p5Qj75nJPEs?t=2742)
-
 ## Layered architecture
+
 [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) - chapter layered architecture
 
 [Software Architecture Patterns by Mark Richards](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/]) - first chapter
 
 ### Skipping layers in Layered architecture. (Also called Open/Closed or relaxed system)
+
 Patterns of Enterprise Application Architecture - page 20
 
-Domain-Driven Design: Tackling Complexity in the Heart of Software - Figure 4.1 in chapter Isolating the Domain 
+Domain-Driven Design: Tackling Complexity in the Heart of Software - Figure 4.1 in chapter Isolating the Domain.
 
 Software Architecture Patterns by Mark Richards - first chapter
-
 
 ## Hexagonal architecture
 
@@ -31,10 +30,9 @@ Software Architecture Patterns by Mark Richards - first chapter
 
 ## DDD
 
-[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) - very hard book. Contains some usefull information but over all isn't probably worth reading.   
+[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) - very hard book. Contains some usefull information but over all isn't probably worth reading.
 
 [Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - personaly i think this book is much better than original [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
-
 
 [Delete operation in DDD](http://udidahan.com/2009/09/01/dont-delete-just-dont/)
 
@@ -72,7 +70,10 @@ Software Architecture Patterns by Mark Richards - first chapter
 
 [ASP .Net Core validation](https://enterprisecraftsmanship.com/posts/combining-asp-net-core-attributes-with-value-objects/)
 
+[Do not to force your client to use ubiqutous language unless neccesary](https://martinfowler.com/bliki/TypeInstanceHomonym.html)
+
 ## Domain events
+
 General description in [Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
 
 [Some more information](https://docs.microsoft.com/cs-cz/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation)
@@ -80,7 +81,6 @@ General description in [Patterns, Principles, and Practices of Domain-Driven Des
 [Dispatching events](https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/)
 
 [Merging events](https://enterprisecraftsmanship.com/posts/merging-domain-events-dispatching/)
-
 
 ## Anemic domain model
 
@@ -91,6 +91,7 @@ General description in [Patterns, Principles, and Practices of Domain-Driven Des
 [Diffrent opinion](http://codebetter.com/gregyoung/2009/07/15/the-anemic-domain-model-pattern/)
 
 ## CQRS
+
 [CQRS basics](https://martinfowler.com/bliki/CQRS.html)
 
 [Basic informations with C# examples](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
@@ -102,29 +103,18 @@ about reporting in DDD. It's not CQRS entierly but it can be viewed as simple CQ
 
 [CQRS vs specification](https://enterprisecraftsmanship.com/posts/cqrs-vs-specification-pattern/)
 
-
 ## Design methodologies
 
-### Event storming
-https://www.eventstorming.com/
+[Event storming 1](https://www.eventstorming.com/)
+[Event storming 2](https://github.com/mariuszgil/awesome-eventstorming)
+[Event storming 3](https://www.youtube.com/watch?v=xIB_VQVVWKk)
 
-https://github.com/mariuszgil/awesome-eventstorming
+[Domain story telling 1](https://www.youtube.com/watch?v=MPQfb7fsw3I)
+[Domain story telling 2](https://domainstorytelling.org/)
 
-https://www.youtube.com/watch?v=xIB_VQVVWKk
-
-### Domain story telling
-https://www.youtube.com/watch?v=MPQfb7fsw3I
-
-https://domainstorytelling.org/
-
-
-### Gibrish game
-http://codebetter.com/gregyoung/2012/02/29/the-context-game-2/
-
-
+[Gibrish game](http://codebetter.com/gregyoung/2012/02/29/the-context-game-2/)
 
 ## General
 
 [Hiding persistance nonsence](https://ayende.com/blog/4567/the-false-myth-of-encapsulating-data-access-in-the-dal)
-
-
+[Good architecture pays of in matter of weeks](https://youtu.be/p5Qj75nJPEs?t=2742)
