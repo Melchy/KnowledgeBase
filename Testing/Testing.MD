@@ -41,4 +41,6 @@ A test fails to compile or run when the SUT is changed in ways that do not affec
 
 Before using TDD you must learn not to write fragile tests.
 
+### Microservices testing
+https://martinfowler.com/articles/microservice-testing/#testing-component-internal-resources
 
