@@ -6,9 +6,7 @@
 
 [Proggraming as UX design - patterns are not goal but usability is](https://silverhammermba.github.io/blog/2022/07/10/ui)
 
-[Team topologies different team types](https://lucidspark.com/blog/understanding-the-4-main-team-topologies)
-
-more in [book](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819) 
+[Team topologies different team types](https://lucidspark.com/blog/understanding-the-4-main-team-topologies) more in [book](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819) 
 
 ## Toyota Kata
 [book](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238)
