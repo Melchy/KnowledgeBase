@@ -1,8 +1,13 @@
 [Tell dont ask patter for better encapsulation](https://martinfowler.com/bliki/TellDontAsk.html)
+
 [Wrong abstraction - do not abstrat unnecessarly and rewrite abstraction if needed](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+
 [Different kinds of pagination](https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c)
+
 [Proggraming as UX design - patterns are not goal but usability is](https://silverhammermba.github.io/blog/2022/07/10/ui)
+
 [Team topologies different team types](https://lucidspark.com/blog/understanding-the-4-main-team-topologies)
+
 more in [book](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819) 
 
 ## Toyota Kata
