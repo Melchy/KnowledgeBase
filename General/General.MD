@@ -1,8 +1,15 @@
-Too many functions.
+[Tell dont ask patter for better encapsulation](https://martinfowler.com/bliki/TellDontAsk.html)
+[Wrong abstraction - do not abstrat unnecessarly and rewrite abstraction if needed](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+[Different kinds of pagination](https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c)
+[Proggraming as UX design - patterns are not goal but usability is](https://silverhammermba.github.io/blog/2022/07/10/ui)
+[Team topologies different team types](https://lucidspark.com/blog/understanding-the-4-main-team-topologies)
+more in [book](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819) 
 
-https://martinfowler.com/bliki/FunctionLength.html
+## Toyota Kata
+[book](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238)
 
-But the key point in the linked article is the separation between intention and implementation. Length is the outcome not the driver.
+Goal is to improve. Every single person in company should try to experiment with new ways and improvements.
+
+Process transparency is important -  1x1 Flow page 82 - it is better to work without buffers and let the process fail to provide transparency
 
 
-https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to?fbclid=IwAR35ECjNFSb-dy6QxQCvR9OSWytrfkM2zsnDpo6p7XXkYkuVojENvGbzj9k
