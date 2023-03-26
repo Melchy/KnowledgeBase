@@ -36,41 +36,23 @@ Software Architecture Patterns by Mark Richards - first chapter
 
 [Delete operation in DDD](http://udidahan.com/2009/09/01/dont-delete-just-dont/)
 
-[DDD general tips](https://lostechies.com/gabrielschenker/2015/04/16/ddd-revisited/)
+[JImmi bogard general DDD tips](https://lostechies.com/gabrielschenker/2015/04/16/ddd-revisited/)
 
-[Interesting pattern for object modeling](https://martinfowler.com/bliki/TellDontAsk.html)
-
-[Another pattern to have in mind](https://en.wikipedia.org/wiki/Law_of_Demeter)
-
-[Value objects](https://vimeo.com/13549100)
-
-[Importance of DDD](https://vimeo.com/43598193)
+[Jimmy boggard refactoring anemic model to DDD](https://vimeo.com/43598193)
 
 [Aggregate example by Jimmi boggard](https://lostechies.com/gabrielschenker/2015/05/25/ddd-the-aggregate/)
 
-[Perfection is myth](https://www.youtube.com/watch?v=lY54TmmEllY)
-
-[Aggregate design by Vernon](https://dddcommunity.org/library/vernon_2011/)
+[Example of aggregate design by Vernon](https://dddcommunity.org/library/vernon_2011/)
 
 [Example of DDD](https://www.mirkosertic.de/blog/2013/04/domain-driven-design-example/)
 
 [Some DDD patterns](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)
 
-[Importance of bounded context](https://www.youtube.com/watch?v=_HkCMrbw1cA)
+[Specification pattern - sharing logic in query and domain](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/)
 
-[More patterns](https://www.youtube.com/watch?v=U6CeaA-Phqo)
-
-[Strategic and tactical patterns](http://gorodinski.com/blog/2013/03/11/the-two-sides-of-domain-driven-design/)
-
-[Specification pattern](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/)
-
-[Entity and value object](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
+[Entity and value object differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
 
 [Example of modeling (ubiqutous language)](https://www.youtube.com/watch?v=T29WzvaPNc8)
-
-[ASP .Net Core validation](https://enterprisecraftsmanship.com/posts/combining-asp-net-core-attributes-with-value-objects/)
-
-[Do not to force your client to use ubiqutous language unless neccesary](https://martinfowler.com/bliki/TypeInstanceHomonym.html)
 
 ## Domain events
 
@@ -116,5 +98,4 @@ about reporting in DDD. It's not CQRS entierly but it can be viewed as simple CQ
 
 ## General
 
-[Hiding persistance nonsence](https://ayende.com/blog/4567/the-false-myth-of-encapsulating-data-access-in-the-dal)
-[Good architecture pays of in matter of weeks](https://youtu.be/p5Qj75nJPEs?t=2742)
+[Good architecture pays of in matter of weeks (and other tips from) according to Martin Fowler](https://youtu.be/p5Qj75nJPEs?t=2742)
