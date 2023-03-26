@@ -1,1 +1,3 @@
-https://andrewlock.net/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/
+
+[ASP .Net Core validation with DDD](https://enterprisecraftsmanship.com/posts/combining-asp-net-core-attributes-with-value-objects/)
+
