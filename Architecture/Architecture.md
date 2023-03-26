@@ -1,4 +1,4 @@
-# Software architecture knowlage base
+# Software architecture
 
 ## Overview
 
