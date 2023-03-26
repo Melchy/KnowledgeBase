@@ -96,6 +96,10 @@ about reporting in DDD. It's not CQRS entierly but it can be viewed as simple CQ
 
 [Gibrish game](http://codebetter.com/gregyoung/2012/02/29/the-context-game-2/)
 
+[How to split bounded contexts](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
+page 107 (fracture planes) -  ubiquitous language, Regulatory Compliance, Change Cadence, Team Location, Risk,  Performance Isolation, Technology, User Persona
+
+
 ## General
 
 [Good architecture pays of in matter of weeks (and other tips from) according to Martin Fowler](https://youtu.be/p5Qj75nJPEs?t=2742)
