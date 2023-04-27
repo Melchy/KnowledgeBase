@@ -44,3 +44,7 @@ Before using TDD you must learn not to write fragile tests.
 ### Microservices testing
 https://martinfowler.com/articles/microservice-testing/#testing-component-internal-resources
 
+
+### Test Containers
+Tool that can run docker containers from c# code https://node.testcontainers.org/.
+
