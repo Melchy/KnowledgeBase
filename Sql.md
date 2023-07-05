@@ -1,0 +1,1 @@
+https://www.postgrescompare.com/ - tool to diff postgres schemas

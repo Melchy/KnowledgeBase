@@ -54,6 +54,8 @@ Software Architecture Patterns by Mark Richards - first chapter
 
 [Example of modeling (ubiqutous language)](https://www.youtube.com/watch?v=T29WzvaPNc8)
 
+DDD talks - https://www.youtube.com/watch?v=f64tZ90Dntg, https://www.youtube.com/watch?v=_HkCMrbw1cA, https://www.youtube.com/watch?v=lY54TmmEllY
+
 ## Domain events
 
 General description in [Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
