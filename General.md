@@ -12,6 +12,8 @@
 
 [https://www.youtube.com/watch?v=LGG3IIHUG_w] - Talk Six Little Lines of Fail - Jimmy Bogard
 
+[https://tonsky.me/blog/unicode/] - unicode basics
+
 ## Toyota Kata
 [book](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238)
 
@@ -40,4 +42,3 @@ Maybe there’s someone better on the market to solve this problem? Bring in 3 m
 The experts start complaining that everything is legacy and need to be redone, since the new kid on the block is crosswords. They trash all the work done on the sudoku and start solving a highly complex crossword.
 
 „Something in such perfection and beauty has never been done in this company“, they happily write onto their LinkedIn pages while they exit the room after their work is done.
-
