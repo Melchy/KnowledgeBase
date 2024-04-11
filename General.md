@@ -16,6 +16,8 @@
 
 [https://blog.maartenballiauw.be/post/2023/11/22/test-driving-windows-11-dev-drive-for-dotnet.html] - dev drive setup
 
+[https://htmx.org/essays/locality-of-behaviour/] - SRP like rule
+
 ## Toyota Kata
 [book](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238)
 
