@@ -18,6 +18,11 @@
 
 [https://htmx.org/essays/locality-of-behaviour/] - SRP like rule
 
+## Original Design Patterns
+
+https://blog.codinghorror.com/rethinking-design-patterns/
+
+
 ## Toyota Kata
 [book](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238)
 
