@@ -18,10 +18,11 @@
 
 [https://htmx.org/essays/locality-of-behaviour/] - SRP like rule
 
+https://npzr.tumblr.com/post/93207053566/power-and-generality - general is not always good
+
 ## Original Design Patterns
 
 https://blog.codinghorror.com/rethinking-design-patterns/
-
 
 ## Toyota Kata
 [book](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238)
