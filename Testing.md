@@ -7,11 +7,12 @@
 [Unit Testing](https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833) - 
 Great resource about advanced unit testing.
 
+[Testing in twenties](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021) - General testing best practices
 
 ## Having tests means that you have good architecture (misconception)
 Low number of tests can be caused by bad architecture.
 
-Hight number of tests means that your architecture is testable but it does't have to be good. 
+High number of tests means that your architecture is testable but it does't have to be good. 
 
 For example lasagna architecture is often testable and bad.
 
@@ -43,6 +44,13 @@ Before using TDD you must learn not to write fragile tests.
 
 ### Microservices testing
 https://martinfowler.com/articles/microservice-testing/#testing-component-internal-resources
+
+### Definition of unit test is broad and essentialy non-existent
+https://martinfowler.com/articles/2021-test-shapes.html
+
+### Test trophy
+https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications
+
 
 
 ### Test Containers
