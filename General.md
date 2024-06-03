@@ -1,4 +1,5 @@
 [Grug brain - general information](https://grugbrain.dev/)
+
 [Tell dont ask patter for better encapsulation](https://martinfowler.com/bliki/TellDontAsk.html)
 
 [Wrong abstraction - do not abstrat unnecessarly and rewrite abstraction if needed](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
